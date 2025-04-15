@@ -11,8 +11,6 @@ __pycache__/
 .idea/
 *.iml
 
-config/secrets.py
-
 .DS_Store
 Thumbs.db
 
