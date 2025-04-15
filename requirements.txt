@@ -1,0 +1,7 @@
+google-generativeai
+requests
+beautifulsoup4
+pandas
+python-dotenv
+newspaper3k
+boto3
