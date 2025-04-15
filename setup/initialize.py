@@ -10,7 +10,7 @@ REQUIRED_ENV_VARS = [
     "GEMINI_API_KEY"
 ]
 
-git  = [
+FOLDERS_TO_CREATE = [
     "data",
     "logs"
 ]
